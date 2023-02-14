@@ -27,7 +27,30 @@ public class Main {
 
 
 
-        //Task 3
+        // Task 2
+
+        String[] myMusicList = new String [5];
+        myMusicList[0] = "Queen";
+        myMusicList[1] = "Scorpios";
+        myMusicList[2] = "Helloween";
+        myMusicList[3] = "Nightwish";
+        myMusicList[4] = "Prodigy";
+
+
+
+        // Task 3
+
+        int[] firstArray = {1, 2};
+        int[] secondArray = {3, 4};
+        int[] thirdArray = {5, 6};
+
+        System.out.println(firstArray[0] + " " + firstArray[1]);
+        System.out.println(secondArray[0] + " " + secondArray[1]);
+        System.out.println(thirdArray[0] + " " + thirdArray[0]);
+
+
+
+        //Task 4
 
         Phone blackSmartphone = new Phone(11223344, "samsung", 0.4);
         Phone whiteSmartPhone = new Phone(88554411, "iphone");
