@@ -46,7 +46,7 @@ public class Main {
 
         System.out.println(firstArray[0] + " " + firstArray[1]);
         System.out.println(secondArray[0] + " " + secondArray[1]);
-        System.out.println(thirdArray[0] + " " + thirdArray[0]);
+        System.out.println(thirdArray[0] + " " + thirdArray[1]);
 
 
 
